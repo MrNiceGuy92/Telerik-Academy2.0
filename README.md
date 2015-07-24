@@ -10,7 +10,7 @@
 | [C# - Object-Oriented Programming](#c---object-oriented-programming)        | [JavaScript Fundamentals](#javascript-fundamentals) | [JavaScript SPA](#javascript-single-page-applications)         |
 | [C# - High-Quality Code](#c---high-quality-code)                            | [JavaScript UI & DOM](#javascript-ui--dom)          | [JavaScript End-to-End](#javascript-end-to-end-applications)   |
 | [C# - Data Structures and Algorithms](#c---data-structures-and-algorithms)  | [JavaScript OOP](#javascript-oop)                   | [ASP.NET Web Forms](#aspnet-web-forms)                         |
-| [C# - Exams](#c---exams)                                                    | [JavaScript Applications](#javascript-applications) | [Exams](#software-technologies---exams)                        | 
+                                                                              | [JavaScript Applications](#javascript-applications)                      | 
 | [Algo Academy](#algo-academy)                                               | [PHP Web-development](#php-web-development)         | [Projects](#software-technologies-1)                           |
 | [Projects](#desktop)                                                        | [Projects](#web-development)                        |
 
