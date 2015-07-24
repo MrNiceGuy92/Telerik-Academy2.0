@@ -9,9 +9,7 @@
 | [C# - Part II](#c---part-ii)                                                | [CSS Styling](#css-styling)                         |                                     |
 | [C# - Object-Oriented Programming](#c---object-oriented-programming)        | [JavaScript Fundamentals](#javascript-fundamentals)   |
 | [C# - High-Quality Code](#c---high-quality-code)                            | [JavaScript UI & DOM](#javascript-ui--dom)          |   |
-|   | [JavaScript OOP](#javascript-oop)                   |                               |
-|                                           | 
-|                                           |
+|   | [JavaScript OOP](#javascript-oop)                   
 
 # Programming with C# 
 
