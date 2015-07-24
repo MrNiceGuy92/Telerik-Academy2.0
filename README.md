@@ -5,12 +5,12 @@
 
 | Programming                                                                 | Web Development                                     | Software Technologies
 | --------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------- |
-| [C# - Part I](#c---part-i)                                                  | [HTML Basics](#html-basics)                         | [                                      |
-| [C# - Part II](#c---part-ii)                                                | [CSS Styling](#css-styling)                         |  |
+| [C# - Part I](#c---part-i)                                                  | [HTML Basics](#html-basics)                         |                                     |
+| [C# - Part II](#c---part-ii)                                                | [CSS Styling](#css-styling)                         |                                     |
 | [C# - Object-Oriented Programming](#c---object-oriented-programming)        | [JavaScript Fundamentals](#javascript-fundamentals)   |
 | [C# - High-Quality Code](#c---high-quality-code)                            | [JavaScript UI & DOM](#javascript-ui--dom)          |   |
-|   | [JavaScript OOP](#javascript-oop)                   |               |
-| [JavaScript Applications](#javascript-applications)                         | 
+|   | [JavaScript OOP](#javascript-oop)                   |                               |
+|                                           | 
 |                                           |
 
 # Programming with C# 
