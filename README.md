@@ -6,12 +6,12 @@
 | Programming                                                                 | Web Development                                     | Software Technologies
 | --------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------- |
 | [C# - Part I](#c---part-i)                                                  | [HTML Basics](#html-basics)                         | [Databases](#databases)                                        |
-| [C# - Part II](#c---part-ii)                                                | [CSS Styling](#css-styling)                         | [Web Services and Cloud](#web-services-and-cloud-technologies) |
+| [C# - Part II](#c---part-ii)                                                | [CSS Styling](#css-styling)                         |  |
 | [C# - Object-Oriented Programming](#c---object-oriented-programming)        | [JavaScript Fundamentals](#javascript-fundamentals)   |
 | [C# - High-Quality Code](#c---high-quality-code)                            | [JavaScript UI & DOM](#javascript-ui--dom)          | [JavaScript End-to-End](#javascript-end-to-end-applications)   |
-| [C# - Data Structures and Algorithms](#c---data-structures-and-algorithms)  | [JavaScript OOP](#javascript-oop)                   | [ASP.NET Web Forms](#aspnet-web-forms)                         |
+| [C# - Data Structures and Algorithms](#c---data-structures-and-algorithms)  | [JavaScript OOP](#javascript-oop)                   |               |
 | [JavaScript Applications](#javascript-applications)                         | 
-| [Algo Academy](#algo-academy)                                               |
+|                                           |
 
 # Programming with C# 
 
