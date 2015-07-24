@@ -1,5 +1,5 @@
 # <h1 align="center">Telerik-Academy2.0 2015/2016</h1>
-Higher quality code than previous version
+<h2 align="center">Higher quality code than previous version</h2>
 
 <p align="center"><a href="http://academy.telerik.com/"><img src="https://raw.github.com/flextry/Telerik-Academy/master/Programming%20with%20C%23/Codes/Other/Telerik.png" /></a></p>
 
