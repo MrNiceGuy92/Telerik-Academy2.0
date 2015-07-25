@@ -41,7 +41,7 @@
 * [Design Patterns]() 
 
 ## C# - High-Quality Code
-1. [Code Formatting]() 
+1. [Code Formatting](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/CodeFormatting)([assignment]) - (assignment)(https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/CodeFormatting/README.md)
 * [Naming Identifiers]() 
 * [Code Documentation and Comments in the Program]() 
 * [Correct Use of Variables, Data, Expressions and Constants]() 
