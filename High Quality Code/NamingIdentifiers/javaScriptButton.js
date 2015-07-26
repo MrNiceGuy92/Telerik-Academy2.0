@@ -1,11 +1,12 @@
-(function () {
-    var userWindow= window,
-        browser = userWindow.navigator.appCodeName,
-        ism = browser == 'Mozilla';
+function onClickButton() {
+    var currentWindow= window,
+        browserName = currentWindow.navigator.appCodeName,
+        isMozilla = (browserName == 'Mozilla');
 
-    if(ism) {
+    if(isMozilla) {
         alert('Yes');
-    } else {
+    }
+    else {
         alert('No');
     }
-}());
+}
