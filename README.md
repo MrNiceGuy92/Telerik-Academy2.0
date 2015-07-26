@@ -42,7 +42,7 @@
 
 ## C# - High-Quality Code
 1. [Code Formatting](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/CodeFormatting) - ([assignment](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/CodeFormatting/README.md))
-* [Naming Identifiers]() 
+* [Naming Identifiers](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/NamingIdentifiers) - ([assignment](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/NamingIdentifiers/README.md))
 * [Code Documentation and Comments in the Program]() 
 * [Correct Use of Variables, Data, Expressions and Constants]() 
 * [Control Flow, Conditional Statements and Loops]() 
