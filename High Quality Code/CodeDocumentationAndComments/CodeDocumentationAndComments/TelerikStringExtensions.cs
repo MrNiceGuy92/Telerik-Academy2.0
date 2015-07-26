@@ -11,7 +11,7 @@
     /// <summary>
     /// The StringExtensions class. Consists of methods which handle string manipulations and string extensions.
     /// </summary>
-    public static class StringExtensions
+    public static class TelerikStringExtensions
     {
         /// <summary>
         /// The ToMd5Hash method. Takes an ordinary string and converts it to its hexidecimal equivalent.
