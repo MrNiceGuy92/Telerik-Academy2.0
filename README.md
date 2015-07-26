@@ -46,7 +46,7 @@
 * [Code Documentation and Comments in the Program](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/CodeDocumentation) - ([assignment](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/CodeDocumentation/README.md))
 * [Correct Use of Variables, Data, Expressions and Constants](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/VariablesDataExpressionsAndConstants) - ([assignment](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/VariablesDataExpressionsAndConstants/README.md))
 * [Control Flow, Conditional Statements and Loops](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/ConditionalStatementsAndLoops) - ([assignment] (https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/ConditionalStatementsAndLoops/README.md))
-* [High-Quality Methods]() 
+* [High-Quality Methods](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/HighQualityMethods) - ([assignments](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/HighQualityMethods/README.md))
 * [High-Quality Classes]()
 * [Defensive Programming, Assertions and Exceptions]()
 * [Code Tuning and Optimization]()
