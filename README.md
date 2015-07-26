@@ -43,7 +43,7 @@
 ## C# - High-Quality Code
 1. [Code Formatting](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/CodeFormatting) - ([assignment](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/CodeFormatting/README.md))
 * [Naming Identifiers](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/NamingIdentifiers) - ([assignment](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/NamingIdentifiers/README.md))
-* [Code Documentation and Comments in the Program](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/CodeDocumentationAndComments) - ([assignment](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/CodeDocumentationAndComments/README.md))
+* [Code Documentation and Comments in the Program](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/CodeDocumentation) - ([assignment](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/CodeDocumentation/README.md))
 * [Correct Use of Variables, Data, Expressions and Constants](https://github.com/MrNiceGuy92/Telerik-Academy2.0/tree/master/High%20Quality%20Code/VariablesDataExpressionsAndConstants) - ([assignment](https://github.com/MrNiceGuy92/Telerik-Academy2.0/blob/master/High%20Quality%20Code/VariablesDataExpressionsAndConstants/README.md))
 * [Control Flow, Conditional Statements and Loops]() 
 * [High-Quality Methods]() 
