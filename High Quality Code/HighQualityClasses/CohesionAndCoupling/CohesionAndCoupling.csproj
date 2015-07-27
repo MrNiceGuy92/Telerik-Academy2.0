@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E196B66A-97A9-41F7-AAA1-0A6E5F1D861F}</ProjectGuid>
+    <ProjectGuid>{5D902935-F656-4388-A9E2-33E892C45189}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GoodAbstraction</RootNamespace>
-    <AssemblyName>GoodAbstraction</AssemblyName>
+    <RootNamespace>CohesionAndCoupling</RootNamespace>
+    <AssemblyName>CohesionAndCoupling</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,12 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Circle.cs" />
-    <Compile Include="Figure.cs" />
-    <Compile Include="FiguresExample.cs" />
-    <Compile Include="ICalculate.cs" />
+    <Compile Include="DistanceUtils.cs" />
+    <Compile Include="FileUtils.cs" />
+    <Compile Include="Parallelepiped.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Rectangle.cs" />
+    <Compile Include="UtilsExample.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
